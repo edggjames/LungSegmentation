@@ -13,8 +13,8 @@ Image_Stack_1.pdf contains the following output:
   b) connected component analysis (pages 8 and 9 - baseline CT).   
   c) morphological closing using a 3D spherical structuring element, with a
    radius of:  
-    i)  10 voxels (pages 10 and 11 - baseline CT; pages 12 and 13 - follow up CT),  
-    ii) 5 voxels (pages 14 and 15 - follow up CT).
+    * 10 voxels (pages 10 and 11 - baseline CT; pages 12 and 13 - follow up CT),  
+    * 5 voxels (pages 14 and 15 - follow up CT).
 
 Image_Stack_2.pdf contains coronal for the follow up images, but with the
 outline of segmentation results overlaid on each slice (where cyan corresponds
