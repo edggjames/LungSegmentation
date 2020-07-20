@@ -9,8 +9,7 @@ Image_Stack_1.pdf contains the following output:
 2) 3D visualisations of the lungs (red = right, green = left), with volume
    smoothing (pages 3, 4, 5 and 6).
 3) A segmentation pipeline is then implemented by:  
-
-  a) thresholding between 2 voxel intensity values (page 7 - baseline CT).
+\n\ta) thresholding between 2 voxel intensity values (page 7 - baseline CT).
   b) connected component analysis (pages 8 and 9 - baseline CT).
   c) morphological closing using a 3D spherical structuring element, with a
    radius of:
