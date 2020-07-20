@@ -16,6 +16,6 @@ Image_Stack_1.pdf contains the following output:
     * 10 voxels (pages 10 and 11 - baseline CT; pages 12 and 13 - follow up CT),  
     * 5 voxels (pages 14 and 15 - follow up CT).
 
-Image_Stack_2.pdf contains coronal for the follow up images, but with the
+Image_Stack_2.pdf contains coronal slices for the follow up images, but with the
 outline of segmentation results overlaid on each slice (where cyan corresponds
 to the radius 10 results, and magenta corresponds to the radius 5 results).
